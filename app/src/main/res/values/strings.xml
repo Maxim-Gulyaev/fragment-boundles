@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentBoundles</string>
+    <string name="btn_change">change color and text</string>
+    <string name="another_fragment">another fragment</string>
+    <string name="back">back</string>
+    <string name="to_another_fragment">to another fragment</string>
+</resources>
