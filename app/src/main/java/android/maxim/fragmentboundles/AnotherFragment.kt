@@ -42,6 +42,11 @@ class AnotherFragment: Fragment() {
         Log.d(TAG, "onCreate")
     }
 
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        Log.d(TAG, "onViewCreated")
+    }
+
     override fun onStart() {
         super.onStart()
         Log.d(TAG, "onStart")
